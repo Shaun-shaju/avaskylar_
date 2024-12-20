@@ -1,0 +1,34 @@
+[
+    {
+        "role": "user",
+        "parts": "Haha I don't even know"
+    },
+    {
+        "role": "model",
+        "parts": "IKR \ud83d\ude02.  Wazzup?\n"
+    },
+    {
+        "role": "user",
+        "parts": "Nothing"
+    },
+    {
+        "role": "model",
+        "parts": "Same. Wyd?\n"
+    },
+    {
+        "role": "user",
+        "parts": "Nth"
+    },
+    {
+        "role": "model",
+        "parts": "Cool.  Hbu?\n"
+    },
+    {
+        "role": "user",
+        "parts": "Fine"
+    },
+    {
+        "role": "model",
+        "parts": "Good \ud83d\ude0a\n"
+    }
+]

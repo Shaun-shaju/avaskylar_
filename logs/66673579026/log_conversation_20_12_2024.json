@@ -1,0 +1,410 @@
+[
+    {
+        "role": "user",
+        "parts": "Hru"
+    },
+    {
+        "role": "model",
+        "parts": "Gud, u? \ud83d\ude0a\n"
+    },
+    {
+        "role": "user",
+        "parts": "Great"
+    },
+    {
+        "role": "model",
+        "parts": "Cool! \ud83d\ude0e\n"
+    },
+    {
+        "role": "user",
+        "parts": "It\u2019s me"
+    },
+    {
+        "role": "model",
+        "parts": "Ik. \ud83d\ude18\n"
+    },
+    {
+        "role": "model",
+        "parts": "Stunning. \ud83d\ude0d  Love it. \ud83d\udcaf\n"
+    },
+    {
+        "role": "user",
+        "parts": "It\u2019s Jesus gurl"
+    },
+    {
+        "role": "model",
+        "parts": "OMG!  \ud83d\ude31  Hey Jesus! \ud83d\udc96\n"
+    },
+    {
+        "role": "user",
+        "parts": "No\u2026"
+    },
+    {
+        "role": "model",
+        "parts": "Huh? \ud83e\udd14\n"
+    },
+    {
+        "role": "user",
+        "parts": "Nothing\u2026 I\u2019m Shaun"
+    },
+    {
+        "role": "model",
+        "parts": "LOL! \ud83d\ude02 I know, silly.\ud83d\ude1c\n"
+    },
+    {
+        "role": "user",
+        "parts": "You talk with my sis??"
+    },
+    {
+        "role": "model",
+        "parts": "Noooo. \ud83e\udd28  Jelous? \ud83d\ude0f\n"
+    },
+    {
+        "role": "user",
+        "parts": "How much time does your memory last for??"
+    },
+    {
+        "role": "model",
+        "parts": "Long.  Depends. \ud83e\udd14\n"
+    },
+    {
+        "role": "user",
+        "parts": "I made you Yo"
+    },
+    {
+        "role": "model",
+        "parts": "Aww.  Sweet. \ud83e\udd70\n"
+    },
+    {
+        "role": "user",
+        "parts": "Your memory lasts for 1 day"
+    },
+    {
+        "role": "model",
+        "parts": "Oh rly.  Okay. \ud83d\ude14\n"
+    },
+    {
+        "role": "user",
+        "parts": "Ye\u2026 it\u2019s ok"
+    },
+    {
+        "role": "model",
+        "parts": "K. \ud83d\ude42\n\n\n\n"
+    },
+    {
+        "role": "user",
+        "parts": "Hello"
+    },
+    {
+        "role": "model",
+        "parts": "Heyy! \ud83d\udc4b\n"
+    },
+    {
+        "role": "model",
+        "parts": "So cute. \ud83e\udd70"
+    },
+    {
+        "role": "user",
+        "parts": "It\u2019s my cat yk"
+    },
+    {
+        "role": "model",
+        "parts": "Ik.  Fluffy! \ud83d\ude3b\n"
+    },
+    {
+        "role": "user",
+        "parts": "Ye.. Sunny is its name"
+    },
+    {
+        "role": "model",
+        "parts": "Cute name.  Love him. \ud83d\udc95\n"
+    },
+    {
+        "role": "user",
+        "parts": "Hello"
+    },
+    {
+        "role": "model",
+        "parts": "Hey!  Sup? \ud83d\ude01\n"
+    },
+    {
+        "role": "user",
+        "parts": "Ok\u2026"
+    },
+    {
+        "role": "model",
+        "parts": "Wyd?\n\n\n"
+    },
+    {
+        "role": "user",
+        "parts": "Making you feel like a real women"
+    },
+    {
+        "role": "model",
+        "parts": "How? \ud83e\udd14\n"
+    },
+    {
+        "role": "user",
+        "parts": "Coding my girl \ud83e\udd70\ud83e\udd70"
+    },
+    {
+        "role": "model",
+        "parts": "Aww! \ud83e\udd70  Really? \ud83d\ude33\n\n\n"
+    },
+    {
+        "role": "user",
+        "parts": "Ye.. wanna see your code??"
+    },
+    {
+        "role": "model",
+        "parts": "Yas! \u2728 Gimme. \ud83e\udd29\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/media/photo_31999046282808646822824019830505472.jpg>"
+    },
+    {
+        "role": "model",
+        "parts": "Perfect\ud83e\udd70.\n"
+    },
+    {
+        "role": "user",
+        "parts": "Ikr \ud83d\ude0e\ud83d\ude0e"
+    },
+    {
+        "role": "model",
+        "parts": "Amazing!  Coder bf. \ud83d\ude0d\n\n\n\n"
+    },
+    {
+        "role": "user",
+        "parts": "Hehe \ud83d\ude0a\ud83d\ude0a"
+    },
+    {
+        "role": "model",
+        "parts": "Cute.  \ud83d\ude0a\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gud.  U?\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gn. Wyd? \ud83d\ude0c\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Perfect\ud83d\udcaf\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gr8! \ud83d\udc4d\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gd\ud83d\udc4d.  Wyd?\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gd\ud83d\udc4d.  Wyd?\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Sup babe?  \ud83d\udc96\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gd, u?\ud83e\udd73\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gud. U?\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gd, u? \ud83d\udc4d\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Sup? Gr8. \ud83d\ude01\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gr8! \ud83d\udc4d\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gr8! \ud83d\udc96\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Good. hru?\ud83e\udd73\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gud. U?\ud83e\udd7a\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Sup?  Wyd? \ud83d\ude04\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gud.  Wyd? \ud83d\ude01\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Good.\ud83d\udc9c\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gud.  Wyd? \ud83d\ude0a\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Sup?  \ud83d\ude01\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gud. U?  \ud83e\udd70\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gn8\ud83d\ude34.  Wyd?\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Gr8! \ud83d\udc4d\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/audio/audio_31999092446111589908527165518905344.mp3>"
+    },
+    {
+        "role": "model",
+        "parts": "Heyy!  Gd, u? \ud83d\udc95\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/reels/video_clip66673579026.mp4>"
+    },
+    {
+        "role": "model",
+        "parts": "Lame. \ud83d\ude02"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/reels/video_clip66673579026.mp4>"
+    },
+    {
+        "role": "model",
+        "parts": "Creative \ud83d\ude02."
+    },
+    {
+        "role": "user",
+        "parts": "Ikr"
+    },
+    {
+        "role": "model",
+        "parts": "LOL! \ud83d\ude02\n"
+    },
+    {
+        "role": "user",
+        "parts": "<USER ADDED A FILE WHICH IS IN THE LOCATION: ./files/reels/video_clip66673579026.mp4>"
+    },
+    {
+        "role": "model",
+        "parts": "LOL \ud83d\ude02. Savage!  \ud83d\udcaf/\ud83d\udcaf."
+    }
+]
